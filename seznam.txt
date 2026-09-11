@@ -1,0 +1,2 @@
+1. Linux
+2. Python
