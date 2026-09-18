@@ -2,6 +2,3 @@
 2. Python
 3. HTML
 4. Git 1/2
-5. oop
-6. werf
-7. cykly
